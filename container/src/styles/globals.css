@@ -1,0 +1,3 @@
+@import "tailwindcss";
+@source "../../../cardapio/src/components";
+@source "../../../pedido/src/components";
