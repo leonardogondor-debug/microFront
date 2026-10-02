@@ -1,6 +1,6 @@
 # Sistema de Pedidos com Micro Frontends
 
-Aplicacao de pedidos dividiva em tres projetos independentes integrados com **Webpack Module Federation** ('@module-federation/nextjs-mf') e **Next.js 13 (Pages Rouster)**.
+Aplicacao de pedidos dividida em tres projetos independentes integrados com **Webpack Module Federation** ('@module-federation/nextjs-mf') e **Next.js 13 (Pages Rouster)**.
 
 ## Como rodar
 
@@ -15,7 +15,7 @@ Ordem recomendada: **cardapio - pedido - container**, pois o container carrega o
 
 Depois acesse:
 ```bash
-http://localhost:3000.
+http://localhost:3000
 ```
 
 ## Como se comunicam os micros
